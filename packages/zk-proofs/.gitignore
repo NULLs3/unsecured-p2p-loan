@@ -1,0 +1,5 @@
+*.sym
+*.ptau
+*.wasm
+*.zkey
+*.wtns

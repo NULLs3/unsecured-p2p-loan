@@ -1,0 +1,12 @@
+{
+    "name": "unsecured-p2p-loan",
+    "version": "1.0.0",
+    "private": true,
+    "workspaces": [
+      "packages/*"
+    ],
+    "scripts": {
+      "build": "yarn workspaces run build",
+      "test": "yarn workspaces run test"
+    }
+  }
